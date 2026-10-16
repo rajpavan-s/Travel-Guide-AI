@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Guide
 
 An AI-powered travel companion that creates spoken guides for destinations. Choose a featured landmark or search for a place, select a summary or detailed guide, and generate a transcript and audio in English, Hindi, Tamil, or Telugu.
@@ -106,3 +107,7 @@ Request JSON:
 - **Frontend on Netlify:** `netlify.toml` publishes the `Frontend` directory. Before deploying, update `Frontend/config.js` so `apiBaseUrl` points to your deployed Render service URL instead of the placeholder `https://YOUR-RENDER-SERVICE.onrender.com`.
 
 Keep provider API keys on the backend; never place them in `Frontend/config.js` or other client-side files.
+=======
+# Travel-Guide-AI
+An AI-powered travel companion that creates concise or detailed guides to destinations in English, Hindi, Tamil, and Telugu, then turns them into audio.
+>>>>>>> c0d19d293d62ee5b934701126ef8e3894f4ed35a
